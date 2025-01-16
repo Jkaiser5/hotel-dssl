@@ -8,4 +8,4 @@ class producto{
         this.precioventa=precioventa;
     }
 }
-module.export=producto;
+module.exports=producto;
