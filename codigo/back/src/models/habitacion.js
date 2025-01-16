@@ -6,7 +6,6 @@ class habitacion{
         this.descripcion=descripcion;
         this.pDiario=pDiario;
         this.estado=estado;
-
     }
 }
 module.exports=habitacion;
